@@ -33,7 +33,7 @@ The hardest part was visual design. Choosing colors, fonts, and layout took a lo
 4.	Built DAX measures (Sales, Cost, Profit, Orders, Average)
 5.	Designed dashboard step by step with proper charts
 ## Image
-![image alt](
+![image alt](https://github.com/takbirahmedparag/Sales-Performance-Dashboard-Power-BI-Project/blob/main/Screenshot%202026-03-29%20125948.png
 ) 
 
 ## Challenges
