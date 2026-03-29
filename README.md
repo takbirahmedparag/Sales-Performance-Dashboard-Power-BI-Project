@@ -33,7 +33,8 @@ The hardest part was visual design. Choosing colors, fonts, and layout took a lo
 4.	Built DAX measures (Sales, Cost, Profit, Orders, Average)
 5.	Designed dashboard step by step with proper charts
 ## Image
- 
+![image alt](
+) 
 
 ## Challenges
 •	Measure vs Column confusion
